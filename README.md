@@ -1,4 +1,4 @@
-Completed - no further development planned.
+## 📦 ARCHIVED - Project completed. No further development planned.
 
 # iat-game-store
 Игра для интернет-магазина с бонусной программой
