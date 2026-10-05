@@ -1,3 +1,5 @@
+Completed - no further development planned.
+
 # iat-game-store
 Игра для интернет-магазина с бонусной программой
 
